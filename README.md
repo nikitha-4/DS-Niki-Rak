@@ -1,2 +1,2 @@
 # DS-Niki-Rak
-DS lab solutions
+DS lab problem solutions in C by Nikitha and Raksha
